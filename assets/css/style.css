@@ -1,10 +1,33 @@
 h1 {
     color: darkslategray;
+    background-color: yellow;
     margin-bottom: 30px;
 }
 
 p {
-    margin-right: 750px;
+    color: darkslategray;
+    max-width: 500px;
+    margin: 30px;
+    margin-left: 0px;
     padding-top: 10px;
-    border-bottom: 1px thick orangered;
+    padding-bottom: 50px;
+    border-bottom: 1px dashed orangered;
+}
+
+a:link {
+    text-decoration: none;
+    color: darkslateblue;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: yellow;
+}
+
+a:active {
+    text-decoration: underline;
 }
