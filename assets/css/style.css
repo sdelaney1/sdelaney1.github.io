@@ -1,6 +1,10 @@
 h1 {
-    color: darkslateblue;
-    margin-bottom: 100px;
-    padding-bottom: 100px;
+    color: darkslategray;
+    margin-bottom: 30px;
+}
+
+p {
+    margin-right: 750px;
+    padding-top: 10px;
     border-bottom: 1px thick orangered;
 }
